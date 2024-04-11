@@ -1,4 +1,4 @@
-# Graph data from database
+
 import {
   View,
   Text,
